@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">GBooks</string>
+	<string name="transtition.image">transition_image</string>
+</resources>
