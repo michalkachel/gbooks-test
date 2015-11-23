@@ -36,5 +36,5 @@ dependencies {
 	compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
 	compile 'org.immutables:gson:2.1.0.alpha'
 
-	compile 'com.squareup.okhttp:logging-interceptor:2.6.0-SNAPSHOT'
+	compile 'com.squareup.okhttp:logging-interceptor:2.7.0-SNAPSHOT'
 }
